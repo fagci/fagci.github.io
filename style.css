@@ -1,0 +1,16 @@
+:root {
+  --c-fg: #222;
+  --c-bg: #fafafa;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --c-fg: #fafafa;
+    --c-bg: #1a1a1a;
+  }
+}
+
+body {
+  color: var(--c-fg);
+  background-color: var(--c-bg);
+}
