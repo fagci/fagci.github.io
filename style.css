@@ -101,4 +101,9 @@ h5 {
 
 a {
   color: var(--c-link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
