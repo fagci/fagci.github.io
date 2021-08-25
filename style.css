@@ -31,6 +31,7 @@ main {
     max-width: 960px;
     background: rgba(0,0,0,0.35);
     padding: 2.5vw;
+    flex-grow: 1;
 }
 
 html {
