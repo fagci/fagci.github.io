@@ -20,7 +20,17 @@ body {
   color: var(--c-fg);
   background-color: var(--c-bg);
   margin: 0;
-  padding: 2.5vw;
+  padding: 0;
+  display: flex;
+  min-height: 100vh;
+  flex-flow: column;
+  align-items: center;
+}
+
+main {
+    max-width: 960px;
+    background: rgba(0,0,0,0.35);
+    padding: 2.5vw;
 }
 
 html {
