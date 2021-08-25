@@ -1,7 +1,7 @@
 :root {
   --c-fg: #222;
   --c-fg-dim: #666;
-  --c-link: hsl(202, 75%, 75%);
+  --c-link: hsl(202, 75%, 35%);
   --c-bg: #fafafa;
   --ff-ss: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
@@ -10,6 +10,7 @@
   :root {
     --c-fg: #fafafa;
     --c-fg-dim: #ccc;
+    --c-link: hsl(202, 75%, 75%);
     --c-bg: #1a1a1a;
   }
 }
