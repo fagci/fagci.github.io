@@ -1,3 +1,3 @@
-# fagcinsk.github.io
+# fagci.github.io
 
-[fagcinsk.github.io](https://fagcinsk.github.io)
+[fagci.github.io](https://fagci.github.io)
